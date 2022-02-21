@@ -1,9 +1,9 @@
 {
     "Guild": {
-        "setup": true,
-        "category_request": 945303391549157408,
-        "archive": true,
-        "category_archive": 945303393524670465,
+        "setup": false
+        "category_request": 0
+        "archive": true
+        "category_archive": 0
         "ticket_number": 0,
         "mods": [],
         "open_tickets": {
