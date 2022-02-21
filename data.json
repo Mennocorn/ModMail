@@ -1,0 +1,13 @@
+{
+    "Guild": {
+        "setup": true,
+        "category_request": 945303391549157408,
+        "archive": true,
+        "category_archive": 945303393524670465,
+        "ticket_number": 0,
+        "mods": [],
+        "open_tickets": {
+            "here must be the string of the int channel id": "here must be the int of the user"
+        }
+    }
+}
