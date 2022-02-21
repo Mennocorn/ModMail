@@ -1,6 +1,6 @@
-token = 'ODU3MzMxMzEzMTMxMTI2Nzk3.YNOCAQ.dKMPS1OAhSE7C8qgJGfUlIDVXZQ'
-guild_id = 697389332440285214  # add the ID of your guild here
-guild_name = "Area 51"
-owner_name = "Unicorn"
-owner_id = [394852484188864512]
-data = 'data.json'
+token = 'YOUR TOKEN'
+guild_id = 'YOUR GUILD ID -> int'  
+guild_name = 'THE NAME YOU WANT YOUR GUILD TO BE KNOWN BY TO THE BOT ->'
+owner_name = 'THE NAME YOU WANT TO BE KNOWN BY TO THE BOT -> str'
+owner_id = ['YOUR ID -> int']
+data = 'YOUR STORAGE FILE PATH -> str / json file'
